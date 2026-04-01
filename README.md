@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Ishu
 
-<!--
-**ishuishu3422-sketch/ishuishu3422-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst in the making** | Open to work
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm up to
+
+Looking for my next opportunity in data analytics. While I search, I'm building projects and sharpening my skills with:
+
+`Python` `Power BI` `SQL` `Excel`
+
+---
+
+### Let's connect
+
+I'm pretty easy to find:
+
+- **LinkedIn** — [linkedin.com/in/ishu](your-link)
+- **Instagram** — @ishu (your-handle)  
+- **Gmail** — ishu@email.com
+
+---
+
+✨ *Always down to chat about data, projects, or opportunities.*
