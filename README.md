@@ -16,9 +16,9 @@ Looking for my next opportunity in data analytics. While I search, I'm building 
 
 I'm pretty easy to find:
 
-- **LinkedIn** — [linkedin.com/in/ishu](your-link)
-- **Instagram** — @ishu (your-handle)  
-- **Gmail** — ishu@email.com
+- **LinkedIn**  — www.linkedin.com/in/ishwaraya-somasundaram-31b4b1375
+- **Instagram** — KooKie_5668
+- **Gmail**     — ishuishu3422@gmail.com
 
 ---
 
