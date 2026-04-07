@@ -24,7 +24,7 @@ Looking for my next opportunity in data analytics. While I search, I'm building 
 -  Created 22 data tables and charts
 -  Built complete Excel dashboard
 
-🔗 **[View Internship Project →](https://github.com/yourusername/TOI-Marketing-Strategy-Study)**
+🔗 **[View Internship Project →]https://github.com/ishuishu3422-sketch/Times-of-India-Marketing-Study
 
 ---
 
