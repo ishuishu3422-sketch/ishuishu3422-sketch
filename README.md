@@ -4,7 +4,7 @@ Data Analyst | BBA Graduate | MSDS Candidate
 
 Chennai, Tamil Nadu  
 Email: ishuishu3422@gmail.com  
-LinkedIn: linkedin.com/in/ishwarayasomasundaram-31b4b1375
+LinkedIn: https://www.linkedin.com/in/ishwaraya-somasundaram-31b4b1375/
 
 ---
 
