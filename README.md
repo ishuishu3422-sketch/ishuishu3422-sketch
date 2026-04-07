@@ -8,13 +8,27 @@
 
 Looking for my next opportunity in data analytics. While I search, I'm building projects and sharpening my skills with:
 
-`Python` `Power BI` `SQL` `Excel` 
+`Python` `Power BI` `SQL` `Excel`  
 
-##  Featured Project
+##  Internship Project
 
-### [A Study on Marketing Strategies Adopted by Times of India](link-to-repo)
-- Surveyed 50 subscribers, performed Chi-square, F-test, T-test, Correlation
-- Created 22 tables, charts, and Excel analysis file
+### [A Study on Marketing Strategies Adopted by Times of India](https://github.com/yourusername/TOI-Marketing-Strategy-Study)
+
+**Company:** The Times of India (TOI)  
+**Role:** Research Intern  
+**Year:** 2023
+
+**What I did:**
+-  Surveyed 50 TOI subscribers
+-  Performed Chi-square, F-test, T-test, and Correlation analysis
+-  Created 22 data tables and charts
+-  Built complete Excel dashboard
+
+🔗 **[View Internship Project →](https://github.com/yourusername/TOI-Marketing-Strategy-Study)**
+
+---
+
+🔍 **Currently seeking new internship opportunities** in Marketing / Data Analytics / Business Strategy
 
 ---
 ## Fun Fact
