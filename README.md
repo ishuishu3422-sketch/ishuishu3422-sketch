@@ -39,7 +39,7 @@ My GitHub activity looks like Courage running in a panic — chaotic, tireless, 
 
 I'm pretty easy to find:
 
-- **LinkedIn**  — www.linkedin.com/in/ishwaraya-somasundaram-31b4b1375
+- **LinkedIn**  — https://www.linkedin.com/in/ishwarayasomasundaram-31b4b1375
 - **Instagram** — KooKie_5668
 - **Gmail**     — ishuishu3422@gmail.com
 
