@@ -8,7 +8,13 @@
 
 Looking for my next opportunity in data analytics. While I search, I'm building projects and sharpening my skills with:
 
-`Python` `Power BI` `SQL` `Excel`
+`Python` `Power BI` `SQL` `Excel` 
+
+##  Featured Project
+
+### [A Study on Marketing Strategies Adopted by Times of India](link-to-repo)
+- Surveyed 50 subscribers, performed Chi-square, F-test, T-test, Correlation
+- Created 22 tables, charts, and Excel analysis file
 
 ---
 ## Fun Fact
