@@ -11,6 +11,9 @@ Looking for my next opportunity in data analytics. While I search, I'm building 
 `Python` `Power BI` `SQL` `Excel`
 
 ---
+## Fun Fact
+
+My GitHub activity looks like Courage running in a panic — chaotic, tireless, and somehow always works out in the end ( love the show).
 
 ### Let's connect
 
