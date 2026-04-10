@@ -6,7 +6,7 @@ Chennai, Tamil Nadu
 Email: ishuishu3422@gmail.com  
 LinkedIn: https://www.linkedin.com/in/ishwaraya-somasundaram-31b4b1375/
 
----
+----
 
 ## Open to Data Analyst Roles – Internship or Entry-Level
 
