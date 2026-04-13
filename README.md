@@ -1,38 +1,21 @@
-# Hi, I'm Ishu
+Open to Data Analyst Roles – Internship or Entry-Level
+Technical Toolkit
 
-Data Analyst | BBA Graduate | MSDS Candidate
+Tool	Skills
+SQL	PostgreSQL, SQLite (Joins, Subqueries, CTEs)
+Power BI	DAX, Power Query, Interactive Dashboards
+Excel	Pivot Tables, Power Query, Statistical Tests
+Python	Pandas & NumPy (foundational)
 
-Chennai, Tamil Nadu  
-Email: ishuishu3422@gmail.com  
-LinkedIn: https://www.linkedin.com/in/ishwaraya-somasundaram-31b4b1375/
+Featured Projects
+Project	Description	Tech Used
+Excel Sales Dashboard	Interactive dashboard with KPIs and dynamic slicers	Excel
+Blinket Power BI Dashboard	Processed ~8,500 rows, built DAX measures & field parameters	Power BI
+TOI Marketing Study	Survey analysis using Chi-square, T-test, F-test, correlation	Excel / Stats
+SQL Job Market Analysis	Analyzing ~212K job postings (in progress)	SQL
 
-----
+A little about me
+My GitHub activity looks like Courage the Cowardly Dog running in panic — chaotic, tireless, and somehow always works out in the end. I bring that same energy to problem-solving: persistent, curious, and not afraid to break things while learning.
 
-## Open to Data Analyst Roles – Internship or Entry-Level
-
-### Tools I work with
-
-- SQL – PostgreSQL, SQLite (learning CTEs, subqueries, joins)
-- Power BI – DAX, Power Query, dashboards
-- Excel – Pivot Tables, Power Query, statistical tests
-- Python – basics of Pandas and NumPy (learning)
-
-### My projects
-
-Excel Sales Dashboard – Interactive dashboard with KPIs and slicers  
-github.com/ishuishu3422-sketch/Excel-Project
-
-Blinket Power BI Dashboard – ~8,500 rows, DAX, field parameters  
-github.com/ishuishu3422-sketch/Power-BI---project
-
-TOI Marketing Study – Survey with Chi-square, T-test, F-test, correlation  
-github.com/ishuishu3422-sketch/Times-of-India-Marketing-Study
-
-SQL Job Market Analysis – In progress, ~212,000 job postings  
-github.com/ishuishu3422-sketch/SQL-Job-Market-Analysis
-
----
-
-### A fun fact
-
-My GitHub activity looks like Courage running in a panic – chaotic, tireless, and somehow always works out in the end. I love that show.
+Let’s connect
+I’m actively looking for internships or entry-level data analyst roles. Feel free to reach out via email or LinkedIn!
