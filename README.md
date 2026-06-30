@@ -1,5 +1,3 @@
-<img width="1200" height="400" alt="image_eb54aaa2b2c6" src="https://github.com/user-attachments/assets/22838fed-bf70-453f-bdf1-478105f9f314" />
-
 # Hi, I'm Ishu
 
 Data Analyst | BBA Graduate | MSDS Candidate
