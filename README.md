@@ -1,4 +1,4 @@
-<img width="1200" height="191" alt="image_eb54aaa2b2c6" src="https://github.com/user-attachments/assets/c3984c81-78fb-4678-a110-1a96e0d1881f" />
+<img width="649" height="240" alt="download (8)" src="https://github.com/user-attachments/assets/3cf72fe3-fa1b-4d7d-a907-74a5e9dfe507" />
 # Hi, I'm Ishu
 
 Data Analyst | BBA Graduate | MSDS Candidate
