@@ -1,5 +1,3 @@
-<img width="736" height="414" alt="Cute goose _p" src="https://github.com/user-attachments/assets/35d8b124-fc52-4749-8a32-46c8cfc290ea" />
-
 # Hi, I'm Ishu
 Data Analyst | BBA Graduate | MSDS Candidate
 
