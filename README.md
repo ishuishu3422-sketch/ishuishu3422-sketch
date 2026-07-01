@@ -1,6 +1,6 @@
 <img width="649" height="240" alt="download (8)" src="https://github.com/user-attachments/assets/3cf72fe3-fa1b-4d7d-a907-74a5e9dfe507" />
-# Hi, I'm Ishu
 
+# Hi, I'm Ishu
 Data Analyst | BBA Graduate | MSDS Candidate
 
 Chennai, Tamil Nadu  
