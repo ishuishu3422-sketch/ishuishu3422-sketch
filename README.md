@@ -27,8 +27,7 @@ github.com/ishuishu3422-sketch/Power-BI---project
 TOI Marketing Study – Survey with Chi-square, T-test, F-test, correlation  
 github.com/ishuishu3422-sketch/Times-of-India-Marketing-Study
 
-SQL Job Market Analysis – In progress, ~212,000 job postings  
-github.com/ishuishu3422-sketch/SQL-Job-Market-Analysis
+SQL Job Market Analysis – In progress
 
 ---
 
