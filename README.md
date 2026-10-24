@@ -27,7 +27,8 @@ github.com/ishuishu3422-sketch/Power-BI---project
 TOI Marketing Study – Survey with Chi-square, T-test, F-test, correlation  
 github.com/ishuishu3422-sketch/Times-of-India-Marketing-Study
 
-SQL Job Market Analysis – In progress
+"SQL Server Data Warehouse – ETL pipeline with Medallion architecture (Bronze/Silver/Gold), T-SQL stored procedures, Star Schema"
+https://github.com/ishuishu3422-sketch/SQL-data-warehouse-project
 
 ---
 
