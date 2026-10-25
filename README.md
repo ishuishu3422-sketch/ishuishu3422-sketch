@@ -49,8 +49,5 @@ LinkedIn: linkedin.com/in/ishwarayasomasundaram-31b4b1375
 [View Repository](https://github.com/ishuishu3422-sketch/Excel-Project)
 
 ### A fun fact
-My GitHub activity looks like Courage running in a panic – chaotic, tireless, and somehow always works out in the end. (I love that show).
-
-### A fun fact
 
 My GitHub activity looks like Courage running in a panic – chaotic, tireless, and somehow always works out in the end,( I love that show).
