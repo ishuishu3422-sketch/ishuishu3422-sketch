@@ -17,23 +17,6 @@ LinkedIn: https://www.linkedin.com/in/ishwaraya-somasundaram-31b4b1375/
 - Excel – Pivot Tables, Power Query, statistical tests
 - Python – basics of Pandas and NumPy (learning)
 
-# Hi, I'm Ishu
-
-Data Analyst | BBA Graduate | MSDS Certified
-Currently pursuing my MCA (Master of Computer Applications)
-
-Chennai, Tamil Nadu  
-Email: ishuishu3422@gmail.com  
-LinkedIn: linkedin.com/in/ishwarayasomasundaram-31b4b1375
-
-## Open to Data Analyst Roles – Internship or Entry-Level
-
-### Tools I work with
-- **SQL** – MS SQL Server, PostgreSQL, SQLite (CTEs, subqueries, joins, stored procedures)
-- **Power BI** – DAX, Power Query, interactive dashboards
-- **Excel** – Pivot Tables, Power Query, statistical tests
-- **Python** – basics of Pandas and NumPy (learning)
-
 ### My projects
 
 **SQL Server Data Warehouse** – ETL pipeline with Medallion architecture (Bronze/Silver/Gold), T-SQL stored procedures, Star Schema
