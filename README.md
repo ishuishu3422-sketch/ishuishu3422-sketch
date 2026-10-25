@@ -1,5 +1,5 @@
 # Hi, I'm Ishu
-Data Analyst | BBA Graduate | MSDS Candidate
+Data Analyst | BBA Graduate | MSDS Candidate |
 **Currently pursuing my MCA (Master of Computer Applications)**
 
 Chennai, Tamil Nadu  
