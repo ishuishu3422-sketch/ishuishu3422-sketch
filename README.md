@@ -24,6 +24,7 @@ github.com/ishuishu3422-sketch/Excel-Project
 
 Blinket Power BI Dashboard – ~8,500 rows, DAX, field parameters  
 github.com/ishuishu3422-sketch/Power-BI---project
+https://github.com/ishuishu3422-sketch/Power-BI---project
 
 TOI Marketing Study – Survey with Chi-square, T-test, F-test, correlation  
 github.com/ishuishu3422-sketch/Times-of-India-Marketing-Study
