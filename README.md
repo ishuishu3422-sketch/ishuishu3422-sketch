@@ -21,6 +21,7 @@ LinkedIn: https://www.linkedin.com/in/ishwaraya-somasundaram-31b4b1375/
 
 Excel Sales Dashboard – Interactive dashboard with KPIs and slicers  
 github.com/ishuishu3422-sketch/Excel-Project
+https://github.com/ishuishu3422-sketch/Excel-Project
 
 Blinket Power BI Dashboard – ~8,500 rows, DAX, field parameters  
 github.com/ishuishu3422-sketch/Power-BI---project
